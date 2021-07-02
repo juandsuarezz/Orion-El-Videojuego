@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Coin
   - Ticket
+  - Bullet
+  - Enemy
   layers:
   - Default
   - TransparentFX

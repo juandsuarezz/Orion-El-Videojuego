@@ -390,8 +390,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   coins: 0
   tickets: 0
+  vidaMax: 0
+  vidaActual: 0
   coinText: {fileID: 5419641890028030798}
   ticketText: {fileID: 5419641889713800383}
+  barraVida: {fileID: 5419641891092904520}
 --- !u!1 &5419641890489333049
 GameObject:
   m_ObjectHideFlags: 0
@@ -755,7 +758,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 1, b: 0.045194626, a: 1}
+  m_Color: {r: 0.24019444, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -767,7 +770,7 @@ MonoBehaviour:
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 0
-  m_FillAmount: 1
+  m_FillAmount: 0.14
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
