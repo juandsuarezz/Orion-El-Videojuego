@@ -31,7 +31,7 @@ public class Carga3 : MonoBehaviour
     IEnumerator n3()
     {
         yield return new WaitForSeconds(2);
-        SceneManager.LoadScene("losiento");
+        SceneManager.LoadScene("ORION");
     }
 
 }

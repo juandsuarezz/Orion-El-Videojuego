@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.0009886739, g: 0.0010803448, b: 0.00012454866, a: 1}
+  m_IndirectSpecularColor: {r: 0.0008812229, g: 0.0010185037, b: 0.000053319214, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1047,14 +1047,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Feid
       objectReference: {fileID: 0}
-    - target: {fileID: 8710231519718328439, guid: 83abfec7d2f52cd459587819c7532664, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8710231521188559976, guid: 83abfec7d2f52cd459587819c7532664, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83abfec7d2f52cd459587819c7532664, type: 3}
 --- !u!1 &828841565
@@ -1656,6 +1648,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5419641890153980715, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
       propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5419641890153980715, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5419641890153980715, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5419641890153980715, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
+      propertyPath: m_LocalScale.z
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5419641890153980715, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
@@ -7087,6 +7091,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7494809339108275936, guid: 6d754a63f8c9a8f4dbb8f075d4be4a12, type: 3}
       propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7494809339108275936, guid: 6d754a63f8c9a8f4dbb8f075d4be4a12, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7494809339108275936, guid: 6d754a63f8c9a8f4dbb8f075d4be4a12, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7494809339108275936, guid: 6d754a63f8c9a8f4dbb8f075d4be4a12, type: 3}
+      propertyPath: m_LocalScale.z
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7494809339108275936, guid: 6d754a63f8c9a8f4dbb8f075d4be4a12, type: 3}

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 0.155
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.2596411, g: 0.37571216, b: 0.42227614, a: 0.155}
+  m_IndirectSpecularColor: {r: 0.25964803, g: 0.37573788, b: 0.42226467, a: 0.155}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -686,7 +686,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &300830509
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1768,8 +1768,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Menes:\nMusi, te tengo una sorpresa, busca un boleto \ny mira lo que hay
-    afuera"
+  m_Text: 'Menes:
+
+    Musi, te tengo una sorpresa, busca un ticket
+
+    y mira lo
+    que hay afuera'
 --- !u!222 &900987469
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2964,7 +2968,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Necesitas 1 boleto para poder subirte al cohete de ORION
+  m_Text: "Necesitas 1 ticket para poder subirte al cohete de \nORION"
 --- !u!222 &1410509573
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3064,7 +3068,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1469244273
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4596,6 +4600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ticket
       objectReference: {fileID: 0}
+    - target: {fileID: 264022209179770213, guid: b0eabd0e060a7c846a7c5954da90cde5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0eabd0e060a7c846a7c5954da90cde5, type: 3}
 --- !u!1001 &5419641889520636045
@@ -4692,6 +4700,10 @@ PrefabInstance:
     - target: {fileID: 5419641890153980719, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
       propertyPath: m_Name
       value: Counter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5419641890153980719, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76e0e640bc65d0f4f88afc11febcf5e8, type: 3}
@@ -4824,7 +4836,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6461690249464230525, guid: f2c651b9f511cc4439f3e2ff667c67d2, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6461690249521087919, guid: f2c651b9f511cc4439f3e2ff667c67d2, type: 3}
       propertyPath: m_IsActive

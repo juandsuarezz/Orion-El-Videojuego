@@ -6,11 +6,13 @@ using UnityEngine.SceneManagement;
 public class CAMARA : MonoBehaviour
 {
     public Animator anim;
-    void Start() 
+    void Update()
     {
         PlayerPrefs.SetInt("coins", 0);
         PlayerPrefs.SetInt("tickets", 0);
-        PlayerPrefs.Save();    
+        PlayerPrefs.SetInt("trofeos", 0);
+        PlayerPrefs.SetInt("state", 0);
+        PlayerPrefs.Save(); 
     }
     public void changescene()
     {
