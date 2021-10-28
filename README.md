@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <p align="center">
-  [![Watch the video](https://img.youtube.com/vi/2zEE84SirX4/maxresdefault.jpg)](https://youtu.be/2zEE84SirX4)
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2zEE84SirX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <h3 align="center">Orion El Videojuego</h3>
 
