@@ -23,6 +23,8 @@ $ git clone https://github.com/juandsuarezz/Orion-El-Videojuego.git
 ```
 Open it in Unity 2020.3.17 or more
 
+## Gameplay
+* [Orion Gameplay](https://youtu.be/2zEE84SirX4)
 
 ## Developer
 
