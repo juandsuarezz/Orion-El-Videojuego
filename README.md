@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2zEE84SirX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <img src="https://github.com/juandsuarezz/Orion-El-Videojuego/blob/main/Assets/Textures/Pantallas%20Carga/Mapa%20Orion%20FULL%20Res.jpg" width="780" height="420">
 
   <h3 align="center">Orion El Videojuego</h3>
 
