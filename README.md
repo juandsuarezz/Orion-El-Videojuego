@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <p align="center">
-  <img src="https://github.com/juandsuarezz/Orion-El-Videojuego/blob/main/Assets/Textures/Pantallas%20Carga/Mapa%20Orion%20FULL%20Res.jpg" width="420" height="420">
+  <img src="https://github.com/juandsuarezz/Orion-El-Videojuego/blob/main/Assets/Textures/Pantallas%20Carga/Mapa%20Orion%20FULL%20Res.jpg" width="600" height="420">
 
   <h3 align="center">Orion El Videojuego</h3>
 
